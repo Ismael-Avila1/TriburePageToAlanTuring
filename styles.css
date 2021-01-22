@@ -23,6 +23,11 @@ body {
     background: #f1faee;
 }
 
+a {
+    text-decoration: none;
+    color: #291F1E;
+}
+
 .introduction {
     width: 65%;
     border-radius: 15px;
@@ -39,4 +44,24 @@ body {
     font-size: 20px;
     width: 70%;
     text-align: justify;
+}
+
+.content {
+    width: 65%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.content p {
+    font-size: 17px;
+    color: #e63946;
+}
+
+.content ol {
+    padding-left: 30px;
+    font-size: 15px;
+}
+
+.content li {
+    padding-bottom: 6px;
 }
