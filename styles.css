@@ -105,3 +105,16 @@ h2 {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+.maquinaTuring {
+    width: 65%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.maquinaTuring p {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    padding: 15px;
+}
