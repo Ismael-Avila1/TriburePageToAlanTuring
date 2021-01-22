@@ -28,9 +28,14 @@ a {
     color: #291F1E;
 }
 
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
 .introduction {
     width: 65%;
-    border-radius: 15px;
     margin: auto;
     margin-top: 20px;
     padding: 20px;
@@ -64,4 +69,22 @@ a {
 
 .content li {
     padding-bottom: 6px;
+}
+
+.biografia {
+    width: 65%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.biografia h2 {
+    padding-bottom: 15px;
+}
+
+.biografia p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    padding: 15px;    
 }
