@@ -160,3 +160,16 @@ h2 {
     text-align: justify;
     padding: 20px;
 }
+
+.reconociomientoPostumo {
+    width: 65%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.reconociomientoPostumo p {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+}
